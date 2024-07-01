@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tnaegele.github.io/</loc>
     <lastmod>2024-06-17T20:21:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://tnaegele.github.io/pages/</loc>
     <lastmod>2024-06-17T20:21:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/portfolio/</loc>
+    <loc>https://tnaegele.github.io/pages/portfolio/</loc>
     <lastmod>2024-06-17T20:21:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/cv/</loc>
+    <loc>https://tnaegele.github.io/pages/cv/</loc>
     <lastmod>2024-06-17T10:25:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/about/</loc>
+    <loc>https://tnaegele.github.io/pages/about/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tnaegele.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://tnaegele.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tnaegele.github.io/tags/</loc>
   </url>
 </urlset>
